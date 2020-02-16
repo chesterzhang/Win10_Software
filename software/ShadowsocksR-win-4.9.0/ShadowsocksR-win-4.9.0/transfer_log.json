@@ -1,0 +1,46 @@
+{
+	"jnt.aity.pro" : {
+		"totalUploadBytes" : 88272892,
+		"totalDownloadBytes" : 688858296
+	},
+	"jmo.aity.pro" : {
+		"totalUploadBytes" : 54319332,
+		"totalDownloadBytes" : 485166444
+	},
+	"hk2.aity.pro" : {
+		"totalUploadBytes" : 79959701,
+		"totalDownloadBytes" : 1005713830
+	},
+	"tw.aity.pro" : {
+		"totalUploadBytes" : 61169604,
+		"totalDownloadBytes" : 1470826667
+	},
+	"hkt.aity.pro" : {
+		"totalUploadBytes" : 76424279,
+		"totalDownloadBytes" : 696185785
+	},
+	"hkbn.aity.pro" : {
+		"totalUploadBytes" : 173349381,
+		"totalDownloadBytes" : 853430907
+	},
+	"hk1.aity.pro" : {
+		"totalUploadBytes" : 80597042,
+		"totalDownloadBytes" : 1957536129
+	},
+	"us1.aity.pro" : {
+		"totalUploadBytes" : 19368205,
+		"totalDownloadBytes" : 156980407
+	},
+	"us2.aity.pro" : {
+		"totalUploadBytes" : 13500238,
+		"totalDownloadBytes" : 92103299
+	},
+	"us3.aity.pro" : {
+		"totalUploadBytes" : 20705362,
+		"totalDownloadBytes" : 91276494
+	},
+	"hk3.aity.pro" : {
+		"totalUploadBytes" : 9110615,
+		"totalDownloadBytes" : 722470942
+	}
+}
